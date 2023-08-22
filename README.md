@@ -35,6 +35,9 @@ Vare Obfuscator 2.0 Uses AES to Crypt Codes. It makes it easier to enter the sys
 ```
 python Vare.py [filename] [options: --junk --sign]
 ```
+```
+python Vare.py --help
+```
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing
