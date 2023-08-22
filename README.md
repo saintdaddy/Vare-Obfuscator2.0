@@ -11,7 +11,7 @@
   <h3 align="center">Vare Obfuscator 2.0</h3>
 
   <p align="center">
-    Powerfull Python Obfuscator
+    Powerful Python Obfuscator
     <br />
     <a href="https://t.me/varestealer"><strong>Telegram Channel</strong></a>
     <br />
